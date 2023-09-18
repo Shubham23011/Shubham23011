@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋, I'm Shubham<br><br>🌱 I’m currently learning: React.js<br><br>📫 How to reach me: Email-(shubhamraihero2015@gmail.com)<br><br>
+Hello 👋, I'm Shubham<br><br>🌱 I’m currently improving my hanson skill on problem solving.<br><br>📫 How to reach me: Email-(shubhamraihero2015@gmail.com)<br><br>
 
 
 ## 🌐 Socials:
